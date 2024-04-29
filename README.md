@@ -37,7 +37,9 @@
 
 <!--Intro end-->
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jerearrieta&show_icons=true&theme=gruvbox"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jerearrieta&show_icons=true&theme=gruvbox"/>
+</div>
 
 
 <!--h1 without bottom border-->
