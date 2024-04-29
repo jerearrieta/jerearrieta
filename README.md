@@ -37,9 +37,7 @@
 
 <!--Intro end-->
 
-<div align="center">
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jerearrieta&show_icons=true&theme=gruvbox)
-</div>
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jerearrieta&show_icons=true&theme=gruvbox"/>
 
 
 <!--h1 without bottom border-->
